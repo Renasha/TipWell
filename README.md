@@ -22,9 +22,9 @@ The following **extensions** are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough:
 
-<img src="https://imgur.com/a/Yx99xci">
+https://imgur.com/a/Yx99xci
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
