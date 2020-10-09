@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dis">&#128542;</string>
+    <string name="neut">"&#128528;"</string>
+    <string name="hap">&#128512;</string>
+    <string name="grin">&#128513;</string>
+    <string name="heart">&#128525;</string>
+
+</resources>
