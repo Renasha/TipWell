@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=https://drive.google.com/file/d/1Rx7MSnH94_kFjG0w6a-ZZGbpUsSr-_PF/view?usp=sharing>
+<img src="https://drive.google.com/file/d/1Rx7MSnH94_kFjG0w6a-ZZGbpUsSr-_PF/view?usp=sharing">
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
